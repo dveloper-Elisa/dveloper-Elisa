@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning fullstack software development
 - 💬 Ask me about web development
 - 📫 How to reach me: +250 787647168
-- 📧 Email : kwizeraelisa77@gmail.com
+- 📧 Email : elisa@tyaza.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
