@@ -8,5 +8,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,bootstrap,mongodb,nodejs,react,express,mysql,php,linux,prisma,git,github,postman,vscode,java,postgresql,vite,figma,xd,ai,photoshop,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,bootstrap,mongodb,nodejs,react,express,mysql,php,linux,prisma,git,github,postman,vscode,java,postgresql,python,vite,figma,xd,ai,photoshop,ts)](https://skillicons.dev)
 
