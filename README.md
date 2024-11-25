@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Internal inspection project<br>🌱 I’m currently learning fullstack software development<br>💬 Ask me about web development<br>📫 How to reach me: +250 787647168<br>📧 Email : elisa@tyaza.org<br>💫portfolio: https://elisa.tyaza.org<br>😄 Pronouns: he/him<br>⚡ Fun fact: ... README == Kiss me
+🔭 I’m currently working on Leave Request project<br>🌱 I’m currently learning Docker<br>💬 Ask me about web & mobile development<br>📫 How to reach me: +250 787647168<br>📧 Email : elisa@tyaza.org<br>💫portfolio: https://elisa.tyaza.org<br>😄 Pronouns: he/him<br>⚡ Fun fact: ... README == Kiss me
 
 
 ## 🌐 Socials:
