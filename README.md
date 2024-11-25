@@ -5,6 +5,7 @@
 - 💬 Ask me about web development
 - 📫 How to reach me: +250 787647168
 - 📧 Email : elisa@tyaza.org
+- portfolio: https://elisa.tyaza.org
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
